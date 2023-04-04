@@ -63,10 +63,5 @@ function say hello(){
 | Spaghetti Bolognese |   |  X |   |   |
 | Bun Thit Nuong |   |   |X|   |
 
-# This is a new way to make this receipe 
-
-1. take all ingrediants, and throw them out 
-2. collect all ingrediants and put yourself in a shame box
-3. go home
 
 
