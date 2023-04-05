@@ -1,26 +1,28 @@
+---
 
-___
 ## Overview
 
-| Info | Value |
-| ----------- | ----------- |
-| Difficulty | Easy | 
-| Time | 30 Min. + 2 Hrs | 
-| Health Score | 6.9 |
-| Calories | 290 |
+| Info         | Value            |
+| ------------ | ---------------- |
+| Difficulty   | Easy             |
+| Time         | 300 Min. + 2 Hrs |
+| Health Score | 6.9              |
+| Calories     | 290              |
 
-___
+---
+
 ## Shopping List
 
 - [ ] 500g Lachsfilet
 - [x] 1 EL Olivenölv
-- [ ] 1 EL Sesamöl
+- [ ] 1 EL Erdnussöl
 - [x] 1 EL flüssiger Honig
-- [x] 4 Frühlingszwiebeln
+- [x] 6 Frühlingszwiebeln
 - [x] 1 TL Butter
 - [x] Salz & Pfeffer
 
-___
+---
+
 ## Steps
 
 1. Lachsfilet unter kaltem Wasser abspülen, trockentupfen und in 4 gleich große Stücke teilen.
