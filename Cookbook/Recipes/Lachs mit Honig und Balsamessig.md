@@ -34,3 +34,5 @@
 4. Butter in einer Pfanne erhitzen und Lachs darin bei starker Hitze rundherum anbraten. Anschließend die Hitze reduzieren und den Fisch in ca. 10 Minuten garziehen lassen, dabei ab und zu Marinade darüberstreichen. Kurz vor Ende der Garzeit Frühlingszwiebeln dazugeben und mitbraten. Anschließend sofort servieren.
 
 5. ERROR CONFLICT
+
+6. Error located : More chillies required
