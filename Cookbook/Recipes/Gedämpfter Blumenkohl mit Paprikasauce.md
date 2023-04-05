@@ -39,3 +39,4 @@ ___
 7. Paprika-Schalotten-Mischung vom Herd nehmen und mit einem Stabmixer in der Brühe pürieren. Mit Salz, Pfeffer, Koriander und Olivenöl abschmecken.
 
 8. Blumenkohlröschen mit der Paprikasauce anrichten. Restliche Zitronenschale in feine Streifen schneiden und darüberstreuen.
+9. Add 200g of extra spicy chillies 
